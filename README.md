@@ -1,6 +1,3 @@
-# RAD-NET
-Visual Question Answering
-
 # !! Paper Review at AAAI 2024 Imageonics
 
 - The paper introduces an innovative approach to multimodal understanding in radiology, emphasizing Visual Question Answering (QA) systems.
